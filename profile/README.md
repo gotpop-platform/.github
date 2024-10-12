@@ -2,4 +2,4 @@
 
 **Welcome!**
 
-This is the central location for things platform related.
+This is the central location for things GotPop platform related. 
